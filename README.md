@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/louixscult)
 [![TikTok](https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@louisxcult)
 
-I've been a PocketMine-MP plugin developer since 2024, and I have experience in PHP, TypeScript, JavaScript, and Python.
+**I'am a PocketMine-MP plugin developer since 2024, and I have experience in PHP, TypeScript, JavaScript, and Python.**
 
 ## Laguages And Framaworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
