@@ -2,6 +2,7 @@
   
 # Hi, i'm louixscult
 
+I've been a PocketMine-MP plugin developer since 2024, and I have experience in PHP, TypeScript, JavaScript, and Python.
 
 ## My links:
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)](https://dsc.gg/luizgeh)
@@ -13,6 +14,7 @@
 ## Stats:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=louixscult&show_icons=true&theme=merko)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louixscult&layout=compact)
 
 </div>
