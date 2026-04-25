@@ -1,8 +1,7 @@
 <div align="center">
-  
+
 # Hi, i'm louixscult
-
-
+![Me](icon.jpg)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)](https://dsc.gg/luizgeh)
 [![YouTube](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat)](https://youtube.com/@luizgeh)
 
