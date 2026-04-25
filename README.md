@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hi, i'm louixscult
-![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)]
+
 
 ## My links:
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)](https://dsc.gg/luizgeh)
