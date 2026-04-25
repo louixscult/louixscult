@@ -23,8 +23,8 @@
 
 ## Stats:
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=louixscult&show_icons=true&theme=merko)
+![Github stats](https://github-readme-stats.vercel.app/api?username=louixscult&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louixscult&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louixscult&layout=compact&theme=tokyonigh)
 
 </div>
