@@ -21,12 +21,14 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![DiscordJS](https://img.shields.io/badge/discord.js-5865F2.svg?style=for-the-badge&logo=discorddotjs&logoColor=white)
 ![SQlite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white]
+
+---
 
 ## Stats:
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=louixscult&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louixscult&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=louixscult&theme=default&hide_border=true&count_private=false)
+![](https://streak-stats.demolab.com/?user=louixscult&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=louixscult&theme=default&hide_border=true&count_private=false&layout=compact)
 
 </div>
